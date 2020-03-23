@@ -1,3 +1,5 @@
+require 'pry'
+
 def new_hash
   # return an empty hash
   test_hash = Hash.new
