@@ -31,8 +31,8 @@ okay = {key => value}
 end
 
 
-def read_from_hash(key)
-  return (key)
+def read_from_hash()
+  return ()
   # return the correct value using the hash and key parameters
   
   end
