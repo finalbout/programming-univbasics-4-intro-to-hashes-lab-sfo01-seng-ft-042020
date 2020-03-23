@@ -32,7 +32,7 @@ end
 
 
 def read_from_hash
-  return (key)
+  
   # return the correct value using the hash and key parameters
   
   end
